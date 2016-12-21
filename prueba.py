@@ -1,5 +1,5 @@
 def suma2x(a,b):
-	print('El super consejito del día es...')
+	print('El super consejito del dÃ­a es...')
 
 suma2x(34,23)
 
