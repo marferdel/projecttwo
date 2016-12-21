@@ -1,4 +1,4 @@
-def suma2x(a,b):
+﻿def suma2x(a,b):
 	print('El super consejito del día es...')
 
 suma2x(34,23)
@@ -7,4 +7,4 @@ suma2x(34,23)
 def 2xresta(a,b):
 	print(2*(a-b))
 
-2xresta(23,34)
+'Mañana nos toca la lotería'
